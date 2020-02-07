@@ -1,0 +1,10 @@
+---
+- hosts: nexpose_server
+  gather_facts: yes
+
+  tasks:
+    - name: Scan
+      nexpose01_start_scan: targetIP="172.20.10.7"
+      register: result
+
+    - debug: var=result

@@ -1,0 +1,11 @@
+---
+- hosts: nexpose_server
+  gather_facts: yes
+
+  tasks:
+    - name: Assets
+      nexpose02_show_assets:
+      register: result
+
+    - debug: var=result
+

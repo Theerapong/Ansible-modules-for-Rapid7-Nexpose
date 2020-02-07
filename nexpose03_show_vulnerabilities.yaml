@@ -1,0 +1,12 @@
+---
+- hosts: nexpose_server
+  gather_facts: yes
+
+  tasks:
+    - name: Vulnerabilities
+      nexpose03_show_vulnerabilities:
+        assetID: 11
+
+      register: result
+
+    - debug: var=result
