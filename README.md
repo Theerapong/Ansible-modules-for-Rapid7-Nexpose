@@ -1,6 +1,7 @@
 
 # Project : Developing Python Scripts (modules of Ansible) to automate a vulnerability scanner (Rapid7 Nexpose).
 
+This project is a part of studying at Kingston University, London.
 
 # *Python Code Design (in Library folder) *
 
