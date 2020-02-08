@@ -22,6 +22,6 @@ User has to assig the ID of asset, then this script will show details of vulnera
 
 (PS: Python has hard-code of username and password)
 
-# *Running*
+# *Running (at YAML files)*
 
 Running software of this project has a few steps which is in accordance with the Ansible way. In order to run by Ansible, YAML files, which is likely the procedure file, will be run via command line that firstly, “nexpose01_start_scan.py” will be run, then “nexpose02_show_assets.yaml”, and finally, “nexpose03_show_vulnerabilities.yaml” will be run.
