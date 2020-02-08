@@ -20,7 +20,8 @@ This script will show details of assets (IP address, hostname, and ID number) in
 User has to assig the ID of asset, then this script will show details of vulnerabilities 
 
 
-(PS: Python has hard-code of username and password)
+*(PS: Python code has hard-code of username and password)*
+
 
 # *Running (at YAML files)*
 
