@@ -34,5 +34,5 @@ https://docs.ansible.com/ansible/2.3/dev_guide/developing_modules_general.html
 INSIGHTVM API (V3)
 https://help.rapid7.com/insightvm/en-us/api/index.html
 
-
-
+Custom Ansible Module Hello World
+https://blog.toast38coza.me/custom-ansible-module-hello-world/
