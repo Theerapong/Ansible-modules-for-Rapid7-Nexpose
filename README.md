@@ -28,7 +28,11 @@ Running software of this project has a few steps which is in accordance with the
 
 
 # *Reference*
+Building A Simple Module
+https://docs.ansible.com/ansible/2.3/dev_guide/developing_modules_general.html
 
+INSIGHTVM API (V3)
+https://help.rapid7.com/insightvm/en-us/api/index.html
 
 
 
