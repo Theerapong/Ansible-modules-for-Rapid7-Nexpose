@@ -9,7 +9,7 @@ This project has 3 Python scrips which work separately following:
 
 •	nexpose01_start_scan.py
 
-This Python scrip intends for user to specify the IP address of asset or target which will be scanned vulnerabilities.
+This Python scrip will be specified the IP address of asset or target which will be scanned vulnerabilities.
 
 •	nexpose02_show_assets.py
 
@@ -17,7 +17,7 @@ This script will show details of assets (IP address, hostname, and ID number) in
 
 •	nexpose03_show_vulnerabilities.py
 
-User has to assig the ID of asset, then this script will show details of vulnerabilities 
+The ID of asset will be assigned, then this script will show details of vulnerabilities of this ID.
 
 
 *(PS: Python code has hard-code of username and password)*
