@@ -3,7 +3,7 @@
 
 *(This project was a part of studying at Kingston University, London)*
 
-# *Python Code Design (in "Library folder)*
+# *Python Code Design (in "Library" folder)*
 
 This project has 3 Python scrips which work separately following:
 
